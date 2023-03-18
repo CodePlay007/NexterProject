@@ -1,0 +1,9 @@
+# Ignoring the node_modules directory
+node_modules/
+
+# Ignoring SASS files
+sass/
+
+# Ignoring the css preprocessor css files
+css/style.comp.css
+css/style.prefix.css
